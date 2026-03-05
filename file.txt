@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-new line
-=======
-yolo
->>>>>>> 97b1793bee22238defe5732835fc1ede25cb0d3b
